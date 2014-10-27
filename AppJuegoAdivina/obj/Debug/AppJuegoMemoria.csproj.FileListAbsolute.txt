@@ -1,0 +1,17 @@
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe.config
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.exe
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Form1.resources
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Properties.Resources.resources
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoAdivina\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csproj.GenerateResource.Cache
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe.config
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.exe
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.pdb
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csprojResolveAssemblyReference.cache
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Form1.resources
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Properties.Resources.resources
+C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csproj.GenerateResource.Cache
