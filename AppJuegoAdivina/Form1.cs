@@ -137,7 +137,7 @@ namespace AppJuegoAdivina
         public void verificarResultado()
         {
             //Comparar listadoOrden y listadoOrdenRespondido
-            /*  if ()
+              if (listadoOrden.SequenceEqual(listadoOrdenRespondido))
             {
                 revisionResultado = true;
                 txtResultado.Text = "Correcto";
@@ -145,8 +145,16 @@ namespace AppJuegoAdivina
             }
             else
             {
-                txtResultado.Text = "Incorrecto";
-            }*/
+                int valoresIncorrectos=0;
+               IEnumerable<Int32> differenceQuery = listadoOrden.Except(listadoOrdenRespondido);
+                  
+             /*
+            foreach(int s in differenceQuery)
+            valoresIncorrectos++;*/
+
+           // txtResultado.Text = "Incorrecto, cantidad de valores incorrectos=" + valoresIncorrectos;
+            txtResultado.Text = "Incorrecto";
+            }
 
             listadoOrdenRespondido.Clear();
             cantidadOpcionesEscogidas = 0;

@@ -15,3 +15,12 @@ C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina
 C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Form1.resources
 C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Properties.Resources.resources
 C:\Users\Maykol\Documents\Desarrollo de software\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csproj.GenerateResource.Cache
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe.config
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.exe
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.pdb
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.exe
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\bin\Debug\AppJuegoAdivina.pdb
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csprojResolveAssemblyReference.cache
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Form1.resources
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoAdivina.Properties.Resources.resources
+Z:\Desarrollo de Aplicaciones\Repositorios Github\AppJuegoMemoria\AppJuegoAdivina\obj\Debug\AppJuegoMemoria.csproj.GenerateResource.Cache
